@@ -11,7 +11,7 @@
 	"spells": [
 	{
 		"buff": [
-		}	"strength": "embolden",
+		{	"strength": "embolden",
 			"magic": "empower"}
 		]
 	}
