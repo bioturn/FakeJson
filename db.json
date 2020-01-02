@@ -1,24 +1,33 @@
 {
 	"weapons": [
+	{
 		"bladed": [
+		{
 			"spear": "longinus",
 			"sword": "excalibur"
-		]
+		}]
+	}
 	],
 	"spells": [
+	{
 		"buff": [
-			"strength": "embolden",
-			"magic": "empower"
+		}	"strength": "embolden",
+			"magic": "empower"}
 		]
+	}
 	],
 	"abilities": [
+	{
 		"attack" :[
-			"bread": "tricut"
+			{"bread": "tricut"}
 		]
+	}
 	],
 	"classes": [
+	{
 		"physical": [
-			"hands": "monk"
+			{"hands": "monk"}
 		]
+	}
 	]
 }
